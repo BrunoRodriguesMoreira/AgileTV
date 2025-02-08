@@ -22,9 +22,6 @@ O **GitHub Viewer** é um aplicativo simples desenvolvido em SwiftUI que permite
 - **AsyncImage** - Para carregar e exibir imagens de perfil.
 - **NavigationStack** - Para navegação entre telas.
 
-## 📷 Capturas de Tela
-*(Adicione aqui imagens do aplicativo em funcionamento)*
-
 ## 🏗️ Como Rodar o Projeto
 1. Clone o repositório:
    ```sh
